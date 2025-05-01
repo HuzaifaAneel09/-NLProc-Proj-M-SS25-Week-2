@@ -5,6 +5,9 @@ Vector search is a method for retrieving information based on **semantic meaning
 
 To find similar text, we compare these vectors using a distance metric (like cosine or Euclidean distance). FAISS is a library that efficiently indexes and searches through these embeddings, allowing fast retrieval of the most relevant results. This approach is commonly used in semantic search, question-answering, and recommendation systems.
 
+## 💻 Github Repo Link 
+👉 [Click to open in Github](https://github.com/HuzaifaAneel09/-NLProc-Proj-M-SS25-Week-2)
+
 ## 💻 Google Colab Notebook
 You can view and run the full notebook on Google Colab here:  
 👉 [Click to open in Colab](https://colab.research.google.com/drive/1T6E8e8IvdVs26tHCRtM2T6Yc64yTNWvJ?usp=sharing)
